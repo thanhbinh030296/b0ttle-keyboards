@@ -8,3 +8,6 @@ All things related my keyboard
 # Keychron K8 Pro
 - I bought since Sept 2022
 - All files are in folder ***Keychron-K8-Pro/***
+
+# Mongeek M1W
+- do not need anything config file. It just a plugs the receive and uses.
