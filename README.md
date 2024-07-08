@@ -11,3 +11,7 @@ All things related my keyboard
 
 # Mongeek M1W
 - do not need anything config file. It just a plugs the receive and uses.
+
+
+# record-alice-wireless-VIA
+- update JSON files of brand and customized by me
