@@ -15,3 +15,5 @@ All things related my keyboard
 
 # record-alice-wireless-VIA
 - update JSON files of brand and customized by me
+- update fix of VIA Record Alice
+![alt text](record-alice-wireless-VIA/via_fix_record_alice.png)
