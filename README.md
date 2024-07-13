@@ -14,6 +14,7 @@ All things related my keyboard
 - it is gifted to my love.
 
 # record-alice-wireless-VIA
+![alt text](record-alice-wireless-VIA/record-alice-layout-1.png)
 - update JSON files of brand and customized by me
 - update fix of VIA Record Alice
 ![alt text](record-alice-wireless-VIA/via_fix_record_alice.png)
