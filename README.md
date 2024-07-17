@@ -18,3 +18,9 @@ All things related my keyboard
 - update JSON files of brand and customized by me
 - update fix of VIA Record Alice
 ![alt text](record-alice-wireless-VIA/via_fix_record_alice.png)
+
+
+# MKC 75
+
+- A comprehensive guide: https://mykeyclub.notion.site/MKC-75-Guide-and-Resources-b50401cc407d4553b109271a704ed43a#9a32ee2e037e4206bbb41f0cb32cee59
+- flash FW anhd software of its: https://mykeyclub.notion.site/How-to-flash-MKC-75-JRIS-80-MKC-65-Tri-mode-PCB-3d1447c043f04a74a9e5bc44b3ee91ce
